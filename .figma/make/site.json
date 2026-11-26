@@ -1,0 +1,10 @@
+{
+  "description": "Estudio web que presenta sus proyectos y servicios de diseño, desarrollo y SEO para ayudar a marcas y negocios a crear sitios atractivos y visibles.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
